@@ -9,6 +9,11 @@
     <artifactId>parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
-    <dependencies>
-    </dependencies>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>domain</module>
+        <module>frontend</module>
+        <module>reporting</module>
+    </modules>
 </project>

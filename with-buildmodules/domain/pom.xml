@@ -11,10 +11,4 @@
     <name>Veripacks vs Build Modules: Domain</name>
 
     <artifactId>domain</artifactId>
-
-    <modules>
-        <module>domain</module>
-        <module>frontend</module>
-        <module>reporting</module>
-    </modules>
 </project>
